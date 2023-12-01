@@ -1,0 +1,8 @@
+.item-undone {
+  color: #1b7bcd;
+}
+
+.item-done {
+  text-decoration: line-through;
+  color: gray;
+}

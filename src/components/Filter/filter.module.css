@@ -1,0 +1,32 @@
+.select {
+  appearance: none;
+  -webkit-appearance: none;
+  padding-top: 24px;
+  width: 150px;
+  font-size: 16px;
+  padding: 12px;
+  background-color: #fff;
+  border: 1px solid #1b7bcd;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.divider {
+  margin: 0 6px;
+}
+
+.active {
+  color: #1b7bcd;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.inactive {
+  color: rgb(187, 179, 179);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.text {
+  padding: 0 8px;
+}

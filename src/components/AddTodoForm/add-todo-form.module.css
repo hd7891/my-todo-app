@@ -1,0 +1,18 @@
+.input {
+  padding: 12px;
+  border: 2px solid #1167b1;
+  border-radius: 24px;
+  width: 240px;
+  color: #1167b1;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.button-submit {
+  border: 0;
+  border-radius: 100px;
+  padding: 12px;
+  margin-left: 12px;
+  background-color: #1b7bcd;
+  color: white;
+}
